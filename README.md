@@ -32,7 +32,7 @@ auth: {
 }
 ```
 
-- Create **`.env`** file in src folder this project, and insert the information copy in this format and keep remaining:
+- Create **`.env`** or rename **`.env.example`** file in server folder this project, and insert the information copy in this format and keep remaining:
 
 ```sh
 PORT=8080
